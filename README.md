@@ -91,7 +91,6 @@ Full-stack web application for managing and browsing a digital book catalog.
 - Docker  
 - Railway (Backend) & Vercel (Frontend)
 
-🔗 Repository: *(add link)*  
 🌐 Live Demo: https://www.matucode.lat  
 
 ---
@@ -114,7 +113,7 @@ Enterprise web application developed for an Internet Service Provider.
 - Docker  
 - Railway / Vercel  
 
-🔗 Repository: *(private / add link if public)*  
+📌 *Private enterprise project (repository not public)*  
 
 ---
 
@@ -129,6 +128,8 @@ Academic–professional project focused on software analysis and functional desi
 **Focus**
 - Software architecture  
 - Business process modeling  
+
+📌 *Academic–professional project (repository not public)*  
 
 ---
 
